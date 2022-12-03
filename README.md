@@ -1,5 +1,12 @@
-Hi there 👋
 
-- :computer: I am currently: learning to code on School of Code's 13th bootcamp!
-- :mailbox: How to reach me: find me on twitter - https://twitter.com/_SuziClark
-- :sparkles: A fun fact about me: I once got hit by a van and the van came off worse! :joy:
+Hello 👋
+
+🎓 I am currently on [School of Code](https://github.com/SchoolOfCode)'s 13th full-time bootcamp 🙌🥳 - I graduate in **February 2023** 🎓
+
+🌍 **Languages** JavaScript, PostgreSQL, HTML& CSS.
+
+📖 **Libraries & Frameworks** NodeJs, React, Express, Jest, SuperTest, Cypress
+
+📲 **Contact** find me on [twitter](https://twitter.com/_SuziClark) and [LinkedIn](https://www.linkedin.com/in/susanna-clark-932b52142/)
+
+🥅 **Goals** I am an aspiring full-stack developer looking to start my first role in tech after the bootcamp 
